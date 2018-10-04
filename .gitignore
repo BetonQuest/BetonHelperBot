@@ -1,0 +1,6 @@
+/target/
+/src/test/
+/.idea/
+/logs/
+/AUTH_TOKEN.txt
+/BetonHelperBot.iml
