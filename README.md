@@ -15,7 +15,7 @@ Note that I host this on my small, private, self paid server, so there might be 
 ## Hosting the bot:
 
 If you wan't more control and reliability I advise you to host the bot on your own server.  
-You find the latest release of the bot [here]() and a super simple start script [here]().  
+You find the latest release of the bot [here](https://github.com/joblo2213/BetonHelperBot/releases) and a super simple start script [here](https://github.com/joblo2213/BetonHelperBot/blob/master/start.sh).  
 The bot will restart every night at 04:20.
 
 You will need to register an account for the bot and specify it's authentication token inside the `AUTH_TOKEN.txt` file, a guide how to do this can be found [here](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token).
